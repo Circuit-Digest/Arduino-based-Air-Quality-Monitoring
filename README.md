@@ -15,10 +15,15 @@ Breathing clean, healthy air is vital for our well-being, yet air quality remain
 ## 🧰 Components
 
 -Arduino board
+
 -MQ135 gas sensor for detecting various gases
+
 -DHT11 temperature and humidity sensor
+
 -OLED display for visual output
+
 -Breadboard and jumper wires
+
 
 
 ## 📺 Watch the Tutorial
