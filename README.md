@@ -1,1 +1,32 @@
 # Arduino-based-Air-Quality-Monitoring
+
+Full Tutorial: 
+
+Build Video: 
+
+![ESP32-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro]([https://github.com/Circuit-Digest/ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro/blob/main/Thumbnail%20Image/IMG_4912.JPG](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/Air-quality-monitoring-system.jpg))
+
+## 📜 Summary
+
+
+Breathing clean, healthy air is vital for our well-being, yet air quality remains a concern in many environments. In this comprehensive guide, we delve into creating an Arduino-based Air Quality Monitoring System. We will start with talking about various components and then move on to its interfacing with the arduino board and then its coding. So, let’s dive straight into it.
+
+
+## 🧰 Components
+
+-Arduino board
+-MQ135 gas sensor for detecting various gases
+-DHT11 temperature and humidity sensor
+-OLED display for visual output
+-Breadboard and jumper wires
+
+
+## 📺 Watch the Tutorial
+
+![Watch the Tutorial](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/gifworkingaqms.gif)
+
+## 📝 License
+
+This project is released under The MIT License (MIT) © [CircuitDigest](https://github.com/circuit-digest)
+
+> "In the world of DIY, creativity knows no bounds." 🎨
