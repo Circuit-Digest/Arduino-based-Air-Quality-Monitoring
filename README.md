@@ -4,7 +4,7 @@ Full Tutorial:
 
 Build Video: 
 
-![ESP32-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro]([https://github.com/Circuit-Digest/ESP8266-Home-Automation-with-Google-Assistant-Alexa-using-Sinric-Pro/blob/main/Thumbnail%20Image/IMG_4912.JPG](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/Air-quality-monitoring-system.jpg))
+![Arduino-based-Air-Quality-Monitoring-System](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/Air-quality-monitoring-system.jpg)
 
 ## 📜 Summary
 
