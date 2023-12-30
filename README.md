@@ -1,8 +1,8 @@
 # Arduino-based-Air-Quality-Monitoring
 
-Full Tutorial: 
+Full Tutorial: https://circuitdigest.com/microcontroller-projects/arduino-based-air-quality-monitoring-system
 
-Build Video: 
+Build Video: https://www.youtube.com/watch?v=JCmsTtJKzW4
 
 ![Arduino-based-Air-Quality-Monitoring-System](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/Air-quality-monitoring-system.jpg)
 
@@ -28,7 +28,7 @@ Breathing clean, healthy air is vital for our well-being, yet air quality remain
 
 ## 📺 Watch the Tutorial
 
-![Watch the Tutorial](https://github.com/Circuit-Digest/Arduino-based-Air-Quality-Monitoring/blob/main/images/gifworkingaqms.gif)
+![Watch the Tutorial](https://www.youtube.com/watch?v=JCmsTtJKzW4)
 
 ## 📝 License
 
