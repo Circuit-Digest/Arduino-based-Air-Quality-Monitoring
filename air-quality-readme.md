@@ -4,9 +4,9 @@
 
 ## Overview
 
-This project demonstrates how to build a comprehensive air quality monitoring system using Arduino. The system monitors environmental parameters including gas levels, temperature, and humidity in real-time, providing accurate Air Quality Index (AQI) readings on an OLED display.
+This project demonstrates how to build a comprehensive [**air quality monitoring system using Arduino**](https://circuitdigest.com/microcontroller-projects/arduino-based-air-quality-monitoring-system). The system monitors environmental parameters, including gas levels, temperature, and humidity in real-time, providing accurate Air Quality Index (AQI) readings on an OLED display.
 
-**Project Source:** [CircuitDigest - Arduino Air Quality Monitoring System](https://circuitdigest.com/microcontroller-projects/arduino-based-air-quality-monitoring-system)
+
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ This project demonstrates how to build a comprehensive air quality monitoring sy
 ## Features
 
 - **Real-time Monitoring**: Continuous monitoring of air quality, temperature, and humidity
-- **AQI Classification**: Categorizes air quality as Good, Poor, Very Bad, or Toxic
+- **AQI Classification**: Categorises air quality as Good, Poor, Very Bad, or Toxic
 - **OLED Display**: Clear visual representation of all sensor readings
 - **Cost-effective**: DIY solution using affordable components
 - **Educational**: Perfect for learning about environmental monitoring and Arduino programming
@@ -38,8 +38,8 @@ This project demonstrates how to build a comprehensive air quality monitoring sy
 |-----------|----------|-------------|
 | Arduino Uno | 1 | Main microcontroller board |
 | MQ135 Gas Sensor | 1 | For detecting various gases and air pollutants |
-| DHT11 Sensor | 1 | Temperature and humidity sensor |
-| OLED Display (128x64) | 1 | SSD1306-based display for visual output |
+| [DHT11 Sensor](https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino) | 1 | Temperature and humidity sensor |
+|[ OLED Display](https://circuitdigest.com/microcontroller-projects/interfacing-oled-display-with-arduino) (128x64) | 1 | SSD1306-based display for visual output |
 | Breadboard | 1 | For prototyping connections |
 | Jumper Wires | Several | For making connections |
 | Power Supply | 1 | 5V power source for Arduino |
